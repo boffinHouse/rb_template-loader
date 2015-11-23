@@ -1,0 +1,26 @@
+{
+  "name": "rb_template-loader",
+  "version": "0.1.0",
+  "description": "rb_template loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boffinHouse/rb_template-loader.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "alexander farkas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boffinHouse/rb_template-loader/issues"
+  },
+  "homepage": "https://github.com/boffinHouse/rb_template-loader#readme",
+  "peerDependencies": {
+    "webpack": "^1.12.8",
+    "rb_template": "^0.1.0"
+  }
+}
